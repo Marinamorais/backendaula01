@@ -1,0 +1,16 @@
+{
+  "name": "backandaula01",
+  "version": "1.0.0",
+  "description": "projeto de aula backend Senai 01",
+  "main": "scr/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.JS",
+    "Javascript",
+    "Senai"
+  ],
+  "author": "Marina Elis de Morais",
+  "license": "ISC"
+}
